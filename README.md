@@ -1,4 +1,4 @@
-<!--# Lab 02: 99 Lines of Code In The File - Part 1
+# Lab 02: 99 Lines of Code In The File - Part 1
 ## Due: Thursday, June 1st
 ##### Covalence 
 ###### Full Stack: Summer 2017
@@ -45,4 +45,4 @@ JANE:
 .......
 .......
 1 line of code in the file, 1 line of code; Jane strikes one out, clears it all out, no more lines of code in the file
-``````````````````````````````-->
+``````````````````````````````
