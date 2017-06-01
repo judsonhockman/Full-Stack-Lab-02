@@ -1,0 +1,26 @@
+/*.square {
+    width: 15em;
+    height: 15em;
+}
+    .red {
+    background-color: red;
+    }
+    .yellow{
+    background-color: yellow;
+    }
+    .green{
+    background-color: green;
+    }
+    .blue{
+    background-color: blue;
+
+            }
+            .small-square{
+                width: 5em;
+                height: 5em;
+            }
+            .corner-block {
+                position: absolute;
+                top: 0;
+                right: 0;
+            }*/
